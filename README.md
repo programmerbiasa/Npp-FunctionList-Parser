@@ -10,4 +10,6 @@ The Function List Panel is a zone to display all the functions (or methods) foun
   - if you use the portable (zip) package, then it will instead be in the functionList folder located in Notepad++ copied directory.
 -  and restart Notepad++.
 
-**Read more information** in https://npp-user-manual.org/docs/function-list/
+**More resourcess** in :
+- https://npp-user-manual.org/docs/function-list/
+- https://github.com/MAPJe71/Languages
